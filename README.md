@@ -1,0 +1,2 @@
+# evacuationCenter-currentLocation
+東京都のOSMベクトルタイルの上に避難所と現在位置を重ねたマップ
